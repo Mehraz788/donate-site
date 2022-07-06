@@ -1,0 +1,36 @@
+body {}
+
+.smart-header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(images/donation5.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.donate-area {
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.donate-area h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+.link-button {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 18px;
+    font-size: 25px;
+    background-color: rgb(182, 55, 32);
+    position: relative;
+}
