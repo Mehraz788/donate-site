@@ -34,3 +34,58 @@ body {}
     background-color: rgb(182, 55, 32);
     position: relative;
 }
+
+.donation-offer {
+    margin: auto;
+    text-align: center;
+}
+
+#today {
+    font-size: 50px;
+}
+
+.money {
+    display: flex;
+    justify-content: center;
+}
+
+#highlight {
+    color: rgb(95, 23, 23);
+    border: solid black;
+    background-color: rgb(226, 114, 114);
+    padding: 5px 5px;
+}
+
+.button {
+    text-align: center;
+
+}
+
+.donate-option {
+    text-decoration: none;
+    background-color: rgb(194, 10, 10);
+    color: white;
+}
+
+.plan-area {
+    font-size: 50px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.recovery {
+    display: flex;
+    width: auto;
+    padding: 10%;
+}
+
+.half-width {
+    width: 30%;
+    margin: 3%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: rgb(215, 226, 222);
+}
